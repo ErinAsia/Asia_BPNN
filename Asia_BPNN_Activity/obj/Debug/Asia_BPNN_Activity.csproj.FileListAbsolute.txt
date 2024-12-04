@@ -1,0 +1,10 @@
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\bin\Debug\Asia_BPNN_Activity.exe.config
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\bin\Debug\Asia_BPNN_Activity.exe
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\bin\Debug\Asia_BPNN_Activity.pdb
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.csproj.AssemblyReference.cache
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.Form1.resources
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.Properties.Resources.resources
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.csproj.GenerateResource.cache
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.csproj.CoreCompileInputs.cache
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.exe
+C:\Users\Erin\Desktop\New folder\Asia_BPNN\Asia_BPNN_Activity\obj\Debug\Asia_BPNN_Activity.pdb
